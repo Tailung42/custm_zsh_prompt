@@ -36,7 +36,7 @@ cat << 'EOF' > README.md
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/bright-catppuccin-zsh-theme.git
+git clone https://github.com/tailung42/bright-catppuccin-zsh-theme.git
 ```
 
 ### 2. Move Theme to Oh My Zsh Custom Themes Directory
